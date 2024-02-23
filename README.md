@@ -32,7 +32,7 @@
 <span class="author-block"><sup>3</sup>Peking University,</span>
 <span class="author-block"><sup>4</sup>National University of Singapore</span>
 
-### [Website](https://jianghanxiao.github.io/roboexp-web/) | [Paper](https://jianghanxiao.github.io/roboexp-web/roboexp.pdf) | [Colab]() | [Video](https://www.youtube.com/watch?v=xZ1gfLRXSOE)
+### [Website](https://jianghanxiao.github.io/roboexp-web/) | [Paper](https://jianghanxiao.github.io/roboexp-web/roboexp.pdf) | [Colab](https://colab.research.google.com/drive/1xcteSyorfbiSzwHtZ77X4v6AlKcUyynK?usp=sharing) | [Video](https://www.youtube.com/watch?v=xZ1gfLRXSOE)
 
 
 ### Overview
