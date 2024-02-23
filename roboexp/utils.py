@@ -220,24 +220,24 @@ def visualize_pc(
         display.append(coordinate)
     o3d.visualization.draw_geometries(display)
 
-    if instances is not None:
-        instance_pcds = []
-        for instance in instances:
-            instance_pcd = o3d.geometry.PointCloud()
-            instance_pcd.points = o3d.utility.Vector3dVector(
-                instance.index_to_pcd(instance.voxel_indexes)
-                if index_to_pcd is None
-                else index_to_pcd(instance["voxel_indexes"])
-            )
-            instance_pcd.paint_uniform_color(np.array([0, 1, 0]))
-            instance_pcds.append(instance_pcd)
-            print(
-                instance.instance_id
-                if index_to_pcd is None
-                else instance["instance_id"]
-            )
-            o3d.visualization.draw_geometries([pcd, instance_pcd])
-        print("Number of instances: ", len(instance_pcds))
+    # if instances is not None:
+    #     instance_pcds = []
+    #     for instance in instances:
+    #         instance_pcd = o3d.geometry.PointCloud()
+    #         instance_pcd.points = o3d.utility.Vector3dVector(
+    #             instance.index_to_pcd(instance.voxel_indexes)
+    #             if index_to_pcd is None
+    #             else index_to_pcd(instance["voxel_indexes"])
+    #         )
+    #         instance_pcd.paint_uniform_color(np.array([0, 1, 0]))
+    #         instance_pcds.append(instance_pcd)
+    #         print(
+    #             instance.instance_id
+    #             if index_to_pcd is None
+    #             else instance["instance_id"]
+    #         )
+    #         o3d.visualization.draw_geometries([pcd, instance_pcd])
+    #     print("Number of instances: ", len(instance_pcds))
 
 
 # Borrow ideas and codes from H. Sánchez's answer
