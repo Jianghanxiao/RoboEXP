@@ -39,8 +39,8 @@
 This repository contains the official implementation of the **RoboEXP** system for the **interactive exploration** task.
 <video autoplay muted loop height="100%" width="100%" controls src="https://github.com/Jianghanxiao/proj-RoboExp/assets/32015651/14cf19c6-5da0-4b84-a3a5-e4383396e3b9"></video>
 
-### Try it in Colab! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CWlDwT-qpVkGuuYLeVISJTuTODpZ3SEQ?usp=sharing)
-In this [notebook](https://colab.research.google.com/drive/1CWlDwT-qpVkGuuYLeVISJTuTODpZ3SEQ?usp=sharing), we replay an example exploration process using the saved observations and cached decisions. 
+### Try it in Colab! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xcteSyorfbiSzwHtZ77X4v6AlKcUyynK?usp=sharing)
+In this [notebook](https://colab.research.google.com/drive/1xcteSyorfbiSzwHtZ77X4v6AlKcUyynK?usp=sharing), we replay an example exploration process using the saved observations and cached decisions. 
 
 ### Setup
 ```
