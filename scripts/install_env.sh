@@ -5,12 +5,12 @@ pip install opencv-python
 pip install transforms3d
 pip install open3d
 # Install SegmentAnything and GroundingDINO
-git clone https://github.com/IDEA-Research/Grounded-Segment-Anything.git && cd Grounded-Segment-Anything && python -m pip install -e segment_anything && cd .. 
+pip install git+https://github.com/IDEA-Research/Grounded-Segment-Anything.git#subdirectory=segment_anything 
 pip install git+https://github.com/IDEA-Research/GroundingDINO.git
 conda install python-graphviz
 
 # Install the xarm python sdk
-git clone https://github.com/xArm-Developer/xArm-Python-SDK.git && cd xArm-Python-SDK && python setup.py install && cd .. && rm -rf xArm-Python-SDK
+pip install git+https://github.com/xArm-Developer/xArm-Python-SDK.git
 
 # Install the realsense2
 pip install pyrealsense2
