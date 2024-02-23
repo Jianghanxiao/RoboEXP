@@ -1,0 +1,22 @@
+{
+    "model": "gpt-4-vision-preview",
+    "max_tokens": 500,
+    "temperature": 0.0,
+    "stop": ["# Query: "],
+    "messages": [
+        {
+            "role": "system",
+            "content_path": "LLM/prompt/vision/roboexp_system.txt"
+        },
+        {
+            "role": "user",
+            "content_path": "LLM/prompt/vision/roboexp_user.txt"
+        },
+        {
+            "role": "assistant",
+            "content_path": "LLM/prompt/vision/roboexp_assistant.txt"
+        }
+    ],
+    "query_prefix": "# Query: ",
+    "query_suffix": ""
+}
