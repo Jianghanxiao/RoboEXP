@@ -89,7 +89,7 @@ If you find this repo useful for your research, please consider citing the paper
 @article{jiang2024roboexp,
     title={RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation},
     author={Jiang, Hanxiao and Huang, Binghao and Wu, Ruihai and Li, Zhuoran and Garg, Shubham and Nayyeri, Hooshang and Wang, Shenlong and Li, Yunzhu},
-    journal={arXiv preprint arXiv:2402.15487},
+    journal={CoRL},
     year={2024}
 }
 ```
