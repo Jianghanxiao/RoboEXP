@@ -1,36 +1,37 @@
 # RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation
 <span class="author-block">
-<a target="_blank" href="https://jianghanxiao.github.io/">Hanxiao Jiang</a><sup>1</sup>,
+<a target="_blank" href="https://jianghanxiao.github.io/">Hanxiao Jiang</a><sup>1,2</sup>,
 </span>
 <span class="author-block">
 <a target="_blank" href="https://binghao-huang.github.io/">Binghao Huang</a><sup>1</sup>,
 </span>
 <span class="author-block">
-<a target="_blank" href="https://warshallrho.github.io/">Ruihai Wu</a><sup>3</sup>,
+<a target="_blank" href="https://warshallrho.github.io/">Ruihai Wu</a><sup>4</sup>,
 </span>
 <span class="author-block">
-<a target="_blank" href="https://sg.linkedin.com/in/zhuoran-li-david">Zhuoran Li</a><sup>4</sup>,
+<a target="_blank" href="https://sg.linkedin.com/in/zhuoran-li-david">Zhuoran Li</a><sup>5</sup>,
 </span>
 
 
 <span class="author-block">
-<a target="_blank" href="https://www.gargshubham.com/">Shubham Garg</a><sup>2</sup>,
+<a target="_blank" href="https://www.gargshubham.com/">Shubham Garg</a><sup>3</sup>,
 </span>
 <span class="author-block">
 <a target="_blank" href="https://www.amazon.science/author/hooshang-nayyeri">Hooshang
-    Nayyeri</a><sup>2</sup>,
+    Nayyeri</a><sup>3</sup>,
 </span>
 <span class="author-block">
-<a target="_blank" href="https://shenlong.web.illinois.edu/">Shenlong Wang</a><sup>1</sup>,
+<a target="_blank" href="https://shenlong.web.illinois.edu/">Shenlong Wang</a><sup>2</sup>,
 </span>
 <span class="author-block">
 <a target="_blank" href="https://yunzhuli.github.io/">Yunzhu Li</a><sup>1</sup>
 </span>
 
-<span class="author-block"><sup>1</sup>University of Illinois Urbana-Champaign,</span>
-<span class="author-block"><sup>2</sup>Amazon,</span>
-<span class="author-block"><sup>3</sup>Peking University,</span>
-<span class="author-block"><sup>4</sup>National University of Singapore</span>
+<span class="author-block"><sup>1</sup>Columbia University,</span>
+<span class="author-block"><sup>2</sup>University of Illinois Urbana-Champaign,</span>
+<span class="author-block"><sup>3</sup>Amazon,</span>
+<span class="author-block"><sup>4</sup>Peking University,</span>
+<span class="author-block"><sup>5</sup>National University of Singapore</span>
 
 ### [Website](https://jianghanxiao.github.io/roboexp-web/) | [Paper](https://jianghanxiao.github.io/roboexp-web/roboexp.pdf) | [Colab](https://colab.research.google.com/drive/1xcteSyorfbiSzwHtZ77X4v6AlKcUyynK?usp=sharing) | [Video](https://www.youtube.com/watch?v=xZ1gfLRXSOE)
 
